@@ -16,6 +16,7 @@ import arrow_left from './arrow_left.png'
 import arrow_right from './arrow_right.png'
 import rating from './rating.png'
 import star from './star.png'
+import home from './home.jpg'
 
 
 
@@ -37,7 +38,8 @@ export const assets ={
     brand2,
     arrow_left,
     arrow_right,
-    star
+    star,
+    home
 
 }
 

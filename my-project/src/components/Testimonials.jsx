@@ -17,7 +17,7 @@ const Testimonials = () => {
         under font-light'>Testimonials
          </span></h1>
          <p className='text-center text-gray-500 mb-12
-         max-w-80 mx-auto'>Real Stories from Those who Found Home With Us.</p>
+         max-w-80 mx-auto'>Real stories from those who found comfort with us.</p>
          <div className='flex flex-wrap justify-center gap-8'>
             {testimonialData.map((testimonial,index)=>(
                 <div key={index} className='max-w-[340px] border shadow-lg

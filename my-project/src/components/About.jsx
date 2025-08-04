@@ -41,7 +41,7 @@ const About = () => {
                         </div>
                     </div>
                     <p className='my-10 max-w-lg'>The best real estate decisions start here. The right property choice is more than
-                    just an investment; it's strategic move to build lasting wealth. Every decision counts, and with our expertise guiding you, your success is inevitable.</p>
+                    just an investment; it's a strategic move to build lasting wealth. Every decision counts, and with our expertise guiding you, your success is inevitable.</p>
                     <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
                 </div>
             </div>
